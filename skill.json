@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-interstitial-potassium-hyperkalemia-arrhythmia-sentinel-skill",
+  "version": "1.0.0",
+  "title": "Interstitial Potassium & Hyperkalemia Arrhythmia Sentinel Skill",
+  "category": "Personal Agent (Bio / Electrolyte Cardioprotection)",
+  "description": "Cross-analyzes interstitial/serum potassium levels against ECG morphometric features (T-wave peaking, T/R amplitude ratio, PR prolongation) to guard against lethal arrhythmias.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "monitor_hyperkalemia_arrhythmia_risk"
+  ],
+  "dependencies": []
+}
